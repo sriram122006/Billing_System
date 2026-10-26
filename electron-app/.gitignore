@@ -1,0 +1,21 @@
+node_modules/
+dist/
+dist-electron/
+release/
+
+# Local SQLite databases and runtime files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.sqlite-shm
+*.sqlite-wal
+*.log
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/
