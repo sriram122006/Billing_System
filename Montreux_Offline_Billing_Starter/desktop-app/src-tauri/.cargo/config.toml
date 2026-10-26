@@ -1,0 +1,8 @@
+[net]
+retry = 10
+git-fetch-with-cli = true
+
+[http]
+timeout = 300
+low-speed-limit = 0
+check-revoke = false

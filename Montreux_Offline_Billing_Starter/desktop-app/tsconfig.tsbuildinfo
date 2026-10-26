@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/BillingView.tsx","./src/components/DashboardView.tsx","./src/components/HistoryView.tsx","./src/components/InventoryView.tsx","./src/components/InvoiceModal.tsx","./src/components/SettingsView.tsx","./src/utils/currency.ts","./src/utils/date.ts"],"version":"5.8.3"}
